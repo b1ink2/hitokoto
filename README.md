@@ -13,3 +13,5 @@ Add the plugin to the plugins array in your zshrc file and restart zsh:
 ```zsh
 plugins=(... hitokoto)
 ```
+
+## perference
